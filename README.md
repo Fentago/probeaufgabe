@@ -1,6 +1,6 @@
 # 📁 **Testaufgabe – UI/UX Design**
 
-Dieses Repository enthält die Ergebnisse einer **Probeaufgabe** für *[Rückwand24]*.  
+Dieses Repository enthält die Ergebnisse einer **Probeaufgabe** für *[Rueckwand24]*.  
 Alle **Frames** aus dem Projekt sind im PNG-Format im Repository abgelegt.
 
 ---
