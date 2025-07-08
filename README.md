@@ -1,6 +1,6 @@
 # 📁 **Testaufgabe – UI/UX Design**
 
-Dieses Repository enthält die Ergebnisse einer **Testaufgabe** für *[Firmenname oder Abteilung]*.  
+Dieses Repository enthält die Ergebnisse einer **Probeaufgabe** für *[Rückwand24]*.  
 Alle **Frames** aus dem Projekt sind im PNG-Format im Repository abgelegt.
 
 ---
@@ -14,7 +14,7 @@ Hier ist der direkte Link zur Figma-Datei mit dem vollständigen Design:
 
 ## 📦 **Inhalt des Repositories**
 
-- `/frames/` – Enthält exportierte Screenshots der Figma-Frames im PNG-Format  
+- `assets/design/frames/` – Enthält exportierte Screenshots der Figma-Frames im PNG-Format  
 - `readme.txt` – Diese Beschreibung
 
 ---
